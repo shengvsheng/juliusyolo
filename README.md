@@ -1,6 +1,6 @@
 ### Hi there 👋，this is Julius~
 
-@link<a href="https://www.github.com/sdefaa" target="_blank"> Sdefaa~</a>
+@link My kitty<a href="https://www.github.com/sdefaa" target="_blank"> Sdefaa~</a>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusyolo&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
